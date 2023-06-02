@@ -9,6 +9,6 @@ A mind-bending spatial puzzle game based on changing gravity (demo).
 * Get the the sphere to win the level (you must be standing on ground to win).
 
 # Dependencies
-[JMonkeyEngine3.5+](https://github.com/jMonkeyEngine/jmonkeyengine)
-[Minie Physics 4.6+](https://github.com/stephengold/Minie)
-[JmeUtilityLibrary](https://github.com/codex128/JmeUtilityLibrary)
+* [JMonkeyEngine3.5+](https://github.com/jMonkeyEngine/jmonkeyengine)
+* [Minie Physics 4.6+](https://github.com/stephengold/Minie)
+* [JmeUtilityLibrary](https://github.com/codex128/JmeUtilityLibrary)
